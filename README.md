@@ -4,7 +4,7 @@
 
 ---
 
-## 🚗 Vendas e Desempenho Comercial
+## 🚗5.1. Vendas e Desempenho Comercial
 
 ### Perguntas de negócio
 
@@ -81,8 +81,22 @@
 ### KPIs sugeridos
 
 * Receita total por região
+
+    ```python
+    df_receita_regiao = agrupar por [Dealer_Region] somar [Price ($)]
+    ```
+
 * Ticket médio por concessionária
+
+    ```python
+    df_ticket_medio_concessionária = agrupar por [Dealer_Name] média [Price ($)]
+    ```
+
 * Ranking de concessionárias por volume de vendas
+
+    ```python
+    df_ranking = agrupar por [Dealer_Name] contar [Car_id] ordenar do maior para o menos
+    ```
 
 ---
 
