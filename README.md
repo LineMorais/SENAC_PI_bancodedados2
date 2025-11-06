@@ -1,78 +1,110 @@
-# Projeto Integrador - Apoio Decisório aos Negócios
-Projeto Integrador - Apoio Decisório aos Negócios
-base de dados :https://www.kaggle.com/datasets/missionjee/car-sales-report
+# 📊 Projeto Integrador - Apoio Decisório aos Negócios
 
-Vendas e Desempenho Comercial
-Perguntas de negócio:
-●	Quais são os modelos e marcas mais vendidos no período analisado?
-   df_maisvendidos =  Agrupar por Data e Empresa(marcas), modelo
+**Base de dados:** [Car Sales Report - Kaggle](https://www.kaggle.com/datasets/missionjee/car-sales-report)
 
-●	Qual é o ticket médio das vendas por região ou concessionária?
-    df_ticket_medio = Agrupar por região de revendedor o preço $
+---
 
-●	Existe sazonalidade nas vendas ao longo do tempo?
+## 🚗 Vendas e Desempenho Comercial
 
-KPIs sugeridos:
+### Perguntas de negócio
 
-●	Volume de vendas (número de carros vendidos).
-    df_total = contagem dos ID do carro
+* **Quais são os modelos e marcas mais vendidos no período analisado?**
 
-●	Receita total e ticket médio de venda.
-    df_receita_total = Soma da coluna Preço $
-    df_media_receita_ano = Média da coluna Preço $
+  ```python
+  df_maisvendidos = Agrupar por Data e Empresa(marcas), modelo
+  ```
 
-●	Taxa de crescimento das vendas por mês/trimestre.
+* **Qual é o ticket médio das vendas por região ou concessionária?**
 
-5.2. Perfil do Cliente
-Perguntas de negócio:
-●	Clientes de maior renda compram quais tipos de veículos?
-    df_renda_x_modelo = Fazer faixa de renda do comprador (Renda anual), agrupar por modelo
+  ```python
+  df_ticket_medio = Agrupar por região de revendedor o preço $
+  ```
 
-●	Existe diferença de preferência entre homens e mulheres?
-    df_genero = Porcentagem que tem de homens e mulheres na coluna genero. Gênero/df_total
+* **Existe sazonalidade nas vendas ao longo do tempo?**
 
-●	Qual é a faixa de renda predominante dos compradores em cada região? 
-    df_agrupar_faixa_renda = 
+---
 
-KPIs sugeridos:
-●	Distribuição de clientes por faixa de renda.
-●	Percentual de vendas por gênero.
-●	Índice de esforço financeiro (preço do carro ÷ renda anual).
+### KPIs sugeridos
 
-5.3. Análise Regional
+* **Volume de vendas (número de carros vendidos)**
 
-Perguntas de negócio:
+  ```python
+  df_total = contagem dos ID do carro
+  ```
 
-●	Quais regiões apresentam maior volume de vendas?
+* **Receita total e ticket médio de venda**
 
-●	Há diferenças significativas no preço médio entre regiões?
+  ```python
+  df_receita_total = Soma da coluna Preço $
+  df_media_receita_ano = Média da coluna Preço $
+  ```
 
-●	Quais concessionárias têm melhor desempenho de receita?
+* **Taxa de crescimento das vendas por mês/trimestre**
 
-KPIs sugeridos:
+---
 
-●	Receita total por região.
+## 👥 5.2. Perfil do Cliente
 
-●	Ticket médio por concessionária.
+### Perguntas de negócio
 
-●	Ranking de concessionárias por volume de vendas.
+* **Clientes de maior renda compram quais tipos de veículos?**
 
-5.4. Suporte a Estratégias de Marketing e Expansão
+  ```python
+  df_renda_x_modelo = Fazer faixa de renda do comprador (Renda anual), agrupar por modelo
+  ```
 
-Perguntas de negócio:
+* **Existe diferença de preferência entre homens e mulheres?**
 
-●	Em quais regiões vale a pena expandir a rede de concessionárias?
+  ```python
+  df_genero = Porcentagem que tem de homens e mulheres na coluna genero (Gênero / df_total)
+  ```
 
-●	Quais perfis de cliente devem ser priorizados em campanhas de marketing?
+* **Qual é a faixa de renda predominante dos compradores em cada região?**
 
-●	Existe correlação entre perfil socioeconômico e características do veículo adquirido?
+  ```python
+  df_agrupar_faixa_renda = ...
+  ```
 
-KPIs sugeridos:
+---
 
-●	Taxa de penetração de mercado (vendas ÷ potencial de clientes).
+### KPIs sugeridos
 
-●	Segmentação de clientes por perfil (clusterização).
+* Distribuição de clientes por faixa de renda
+* Percentual de vendas por gênero
+* Índice de esforço financeiro (preço do carro ÷ renda anual)
 
-●	ROI estimado de campanhas regionais.
+---
 
+## 🌍 5.3. Análise Regional
 
+### Perguntas de negócio
+
+* Quais regiões apresentam maior volume de vendas?
+* Há diferenças significativas no preço médio entre regiões?
+* Quais concessionárias têm melhor desempenho de receita?
+
+---
+
+### KPIs sugeridos
+
+* Receita total por região
+* Ticket médio por concessionária
+* Ranking de concessionárias por volume de vendas
+
+---
+
+## 📈 5.4. Suporte a Estratégias de Marketing e Expansão
+
+### Perguntas de negócio
+
+* Em quais regiões vale a pena expandir a rede de concessionárias?
+* Quais perfis de cliente devem ser priorizados em campanhas de marketing?
+* Existe correlação entre perfil socioeconômico e características do veículo adquirido?
+
+---
+
+### KPIs sugeridos
+
+* Taxa de penetração de mercado (vendas ÷ potencial de clientes)
+* Segmentação de clientes por perfil (*clusterização*)
+* ROI estimado de campanhas regionais
