@@ -1,0 +1,242 @@
+Faixa de Renda,Gênero,Marca,Quantidade,Preço Médio
+Alta (> 1M),Male,Chevrolet,445,26353.45617977528
+Alta (> 1M),Male,Dodge,443,27021.352144469525
+Alta (> 1M),Male,Ford,417,29096.64268585132
+Alta (> 1M),Male,Volkswagen,357,24809.30532212885
+Alta (> 1M),Male,Mitsubishi,350,26218.425714285713
+Alta (> 1M),Male,Mercedes-B,324,27581.85802469136
+Alta (> 1M),Male,Toyota,323,30258.47678018576
+Alta (> 1M),Male,Oldsmobile,306,32215.549019607843
+Alta (> 1M),Male,Chrysler,302,26964.685430463574
+Alta (> 1M),Male,Mercury,262,27793.603053435116
+Alta (> 1M),Male,Nissan,236,27260.813559322032
+Alta (> 1M),Male,Volvo,208,27352.45673076923
+Alta (> 1M),Male,Pontiac,207,28715.251207729467
+Alta (> 1M),Male,BMW,203,24375.63054187192
+Alta (> 1M),Male,Lexus,201,33627.348258706465
+Alta (> 1M),Male,Cadillac,194,39736.33505154639
+Alta (> 1M),Male,Plymouth,169,28642.6449704142
+Alta (> 1M),Male,Honda,168,29756.595238095237
+Alta (> 1M),Male,Acura,167,24434.610778443115
+Alta (> 1M),Male,Saturn,152,32906.32236842105
+Alta (> 1M),Male,Buick,140,33355.75
+Alta (> 1M),Male,Lincoln,134,31464.432835820895
+Alta (> 1M),Male,Audi,131,22267.030534351146
+Alta (> 1M),Male,Jeep,101,21389.881188118812
+Alta (> 1M),Female,Ford,100,29765.72
+Alta (> 1M),Male,Subaru,99,26632.58585858586
+Alta (> 1M),Female,Dodge,94,25593.86170212766
+Alta (> 1M),Male,Porsche,94,22073.17021276596
+Alta (> 1M),Female,Chevrolet,93,28115.84946236559
+Alta (> 1M),Female,Volkswagen,79,26658.21518987342
+Alta (> 1M),Male,Hyundai,79,19467.45569620253
+Alta (> 1M),Female,Mitsubishi,70,28485.914285714287
+Alta (> 1M),Male,Saab,66,36695.0
+Alta (> 1M),Female,Mercedes-B,63,23878.06349206349
+Alta (> 1M),Female,Nissan,62,28622.08064516129
+Alta (> 1M),Female,Toyota,58,27455.431034482757
+Alta (> 1M),Female,Oldsmobile,57,28844.964912280702
+Alta (> 1M),Female,Chrysler,56,27867.75
+Alta (> 1M),Male,Infiniti,52,27850.19230769231
+Alta (> 1M),Female,BMW,49,24636.938775510203
+Alta (> 1M),Female,Cadillac,47,44308.44680851064
+Alta (> 1M),Female,Pontiac,46,31669.869565217392
+Alta (> 1M),Female,Mercury,45,29277.37777777778
+Alta (> 1M),Female,Volvo,42,31753.904761904763
+Alta (> 1M),Female,Acura,41,23148.951219512193
+Alta (> 1M),Female,Saturn,40,29126.525
+Alta (> 1M),Male,Jaguar,40,24637.625
+Alta (> 1M),Female,Honda,39,29732.20512820513
+Alta (> 1M),Female,Lexus,36,36603.0
+Alta (> 1M),Female,Plymouth,34,28694.41176470588
+Alta (> 1M),Female,Lincoln,24,33568.958333333336
+Alta (> 1M),Female,Audi,22,23807.272727272728
+Alta (> 1M),Female,Porsche,22,23554.863636363636
+Alta (> 1M),Female,Jeep,20,22047.75
+Alta (> 1M),Female,Buick,19,39034.57894736842
+Alta (> 1M),Female,Subaru,17,29520.70588235294
+Alta (> 1M),Female,Hyundai,11,20863.81818181818
+Alta (> 1M),Female,Infiniti,11,22945.727272727272
+Alta (> 1M),Female,Jaguar,8,25025.375
+Alta (> 1M),Female,Saab,6,31683.5
+Baixa (< 50k),Male,Chevrolet,308,25837.902597402597
+Baixa (< 50k),Male,Ford,291,29879.910652920964
+Baixa (< 50k),Male,Dodge,286,25731.062937062936
+Baixa (< 50k),Male,Mitsubishi,239,25510.70711297071
+Baixa (< 50k),Male,Volkswagen,237,24552.936708860758
+Baixa (< 50k),Male,Mercedes-B,212,26515.33962264151
+Baixa (< 50k),Male,Oldsmobile,202,34787.341584158414
+Baixa (< 50k),Male,Chrysler,191,25602.303664921466
+Baixa (< 50k),Male,Toyota,190,28837.063157894736
+Baixa (< 50k),Male,Lexus,147,34646.510204081635
+Baixa (< 50k),Male,Nissan,144,27291.895833333332
+Baixa (< 50k),Male,Pontiac,141,28744.929078014186
+Baixa (< 50k),Male,BMW,139,24834.741007194243
+Baixa (< 50k),Male,Mercury,132,28750.227272727272
+Baixa (< 50k),Male,Acura,125,25176.272
+Baixa (< 50k),Male,Honda,125,26960.24
+Baixa (< 50k),Male,Volvo,124,26322.798387096773
+Baixa (< 50k),Male,Cadillac,107,37645.19626168224
+Baixa (< 50k),Male,Plymouth,107,30252.551401869157
+Baixa (< 50k),Male,Saturn,104,30923.41346153846
+Baixa (< 50k),Female,Chevrolet,91,26758.505494505494
+Baixa (< 50k),Male,Lincoln,91,28700.186813186814
+Baixa (< 50k),Female,Ford,86,26397.941860465115
+Baixa (< 50k),Male,Audi,81,23827.40740740741
+Baixa (< 50k),Male,Subaru,78,29013.115384615383
+Baixa (< 50k),Female,Dodge,76,25263.38157894737
+Baixa (< 50k),Male,Buick,72,32166.944444444445
+Baixa (< 50k),Male,Jeep,72,20208.527777777777
+Baixa (< 50k),Female,Mercedes-B,68,28985.558823529413
+Baixa (< 50k),Female,Volkswagen,59,25186.745762711864
+Baixa (< 50k),Female,Chrysler,58,25983.068965517243
+Baixa (< 50k),Male,Porsche,58,22931.275862068964
+Baixa (< 50k),Female,Nissan,52,26038.653846153848
+Baixa (< 50k),Female,Mitsubishi,51,27255.156862745098
+Baixa (< 50k),Female,Oldsmobile,50,34800.28
+Baixa (< 50k),Female,Pontiac,49,30000.326530612245
+Baixa (< 50k),Male,Hyundai,48,18541.854166666668
+Baixa (< 50k),Female,Lexus,45,31022.48888888889
+Baixa (< 50k),Female,Toyota,44,28988.909090909092
+Baixa (< 50k),Female,Cadillac,38,45210.81578947369
+Baixa (< 50k),Female,Honda,36,28166.88888888889
+Baixa (< 50k),Female,Plymouth,36,31555.916666666668
+Baixa (< 50k),Male,Jaguar,34,24676.70588235294
+Baixa (< 50k),Female,Acura,32,24125.25
+Baixa (< 50k),Female,Volvo,32,31125.28125
+Baixa (< 50k),Female,BMW,29,24621.0
+Baixa (< 50k),Female,Saturn,29,31310.620689655174
+Baixa (< 50k),Female,Mercury,28,26714.571428571428
+Baixa (< 50k),Male,Saab,28,38821.57142857143
+Baixa (< 50k),Male,Infiniti,26,33800.11538461538
+Baixa (< 50k),Female,Buick,24,28625.25
+Baixa (< 50k),Female,Lincoln,21,29904.95238095238
+Baixa (< 50k),Female,Porsche,20,23850.2
+Baixa (< 50k),Female,Jeep,18,16833.5
+Baixa (< 50k),Female,Audi,15,21733.666666666668
+Baixa (< 50k),Female,Hyundai,13,19461.615384615383
+Baixa (< 50k),Female,Saab,11,37181.90909090909
+Baixa (< 50k),Female,Subaru,9,23666.666666666668
+Baixa (< 50k),Female,Infiniti,8,28250.125
+Baixa (< 50k),Female,Jaguar,8,26875.25
+Média (100k-500k),Male,Dodge,122,26639.524590163935
+Média (100k-500k),Male,Chevrolet,121,28006.438016528926
+Média (100k-500k),Male,Ford,100,29933.66
+Média (100k-500k),Male,Volkswagen,93,26914.1935483871
+Média (100k-500k),Male,Mercedes-B,91,28621.91208791209
+Média (100k-500k),Male,Oldsmobile,86,30333.976744186046
+Média (100k-500k),Male,Toyota,73,31685.095890410958
+Média (100k-500k),Male,Mitsubishi,70,27693.1
+Média (100k-500k),Male,Mercury,69,29630.681159420288
+Média (100k-500k),Male,Chrysler,68,27861.897058823528
+Média (100k-500k),Male,Nissan,58,29977.706896551725
+Média (100k-500k),Male,BMW,57,25552.894736842107
+Média (100k-500k),Male,Pontiac,52,30259.846153846152
+Média (100k-500k),Male,Volvo,49,25811.428571428572
+Média (100k-500k),Female,Chevrolet,45,27105.844444444443
+Média (100k-500k),Male,Honda,45,27750.222222222223
+Média (100k-500k),Female,Ford,43,29563.279069767443
+Média (100k-500k),Female,Mitsubishi,37,27640.72972972973
+Média (100k-500k),Male,Lexus,37,34635.37837837838
+Média (100k-500k),Male,Acura,34,24597.29411764706
+Média (100k-500k),Female,Chrysler,33,23500.030303030304
+Média (100k-500k),Female,Dodge,33,24242.727272727272
+Média (100k-500k),Male,Cadillac,33,44980.63636363636
+Média (100k-500k),Male,Lincoln,33,26151.666666666668
+Média (100k-500k),Male,Saturn,33,29212.333333333332
+Média (100k-500k),Male,Plymouth,32,22812.75
+Média (100k-500k),Female,Mercedes-B,30,26500.466666666667
+Média (100k-500k),Male,Jeep,29,21327.758620689656
+Média (100k-500k),Male,Subaru,29,29465.58620689655
+Média (100k-500k),Male,Audi,27,22815.074074074073
+Média (100k-500k),Female,Volkswagen,26,30884.96153846154
+Média (100k-500k),Female,BMW,25,23380.28
+Média (100k-500k),Male,Buick,25,36368.2
+Média (100k-500k),Female,Toyota,23,28369.91304347826
+Média (100k-500k),Female,Saturn,22,34625.318181818184
+Média (100k-500k),Female,Acura,20,24430.35
+Média (100k-500k),Female,Oldsmobile,19,38105.63157894737
+Média (100k-500k),Female,Pontiac,19,28700.157894736843
+Média (100k-500k),Male,Infiniti,19,29631.78947368421
+Média (100k-500k),Male,Porsche,19,22473.78947368421
+Média (100k-500k),Female,Lexus,18,39278.166666666664
+Média (100k-500k),Female,Mercury,18,30519.833333333332
+Média (100k-500k),Female,Nissan,18,25722.555555555555
+Média (100k-500k),Female,Volvo,17,31500.41176470588
+Média (100k-500k),Male,Jaguar,15,26200.266666666666
+Média (100k-500k),Female,Honda,14,30571.64285714286
+Média (100k-500k),Female,Lincoln,14,42107.5
+Média (100k-500k),Female,Audi,13,20564.30769230769
+Média (100k-500k),Female,Subaru,13,27808.0
+Média (100k-500k),Female,Cadillac,12,39917.0
+Média (100k-500k),Male,Hyundai,12,18000.25
+Média (100k-500k),Female,Buick,11,29318.545454545456
+Média (100k-500k),Female,Porsche,11,21000.363636363636
+Média (100k-500k),Female,Plymouth,10,21950.2
+Média (100k-500k),Male,Saab,8,36718.75
+Média (100k-500k),Female,Hyundai,7,20357.14285714286
+Média (100k-500k),Female,Jeep,7,24857.571428571428
+Média (100k-500k),Female,Jaguar,3,28667.0
+Média (100k-500k),Female,Infiniti,1,21000.0
+Média (100k-500k),Female,Saab,1,26000.0
+Média-Alta (500k-1M),Male,Chevrolet,557,25682.43806104129
+Média-Alta (500k-1M),Male,Dodge,476,26390.008403361346
+Média-Alta (500k-1M),Male,Ford,439,29356.738041002278
+Média-Alta (500k-1M),Male,Mercedes-B,366,27458.666666666668
+Média-Alta (500k-1M),Male,Volkswagen,357,25443.7675070028
+Média-Alta (500k-1M),Male,Mitsubishi,349,27047.79083094556
+Média-Alta (500k-1M),Male,Chrysler,313,25358.690095846647
+Média-Alta (500k-1M),Male,Toyota,302,29389.26821192053
+Média-Alta (500k-1M),Male,Oldsmobile,299,30765.18060200669
+Média-Alta (500k-1M),Male,Mercury,252,28546.146825396827
+Média-Alta (500k-1M),Male,Lexus,249,33923.951807228914
+Média-Alta (500k-1M),Male,Nissan,240,25265.191666666666
+Média-Alta (500k-1M),Male,Volvo,237,27759.261603375526
+Média-Alta (500k-1M),Male,BMW,222,25925.90990990991
+Média-Alta (500k-1M),Male,Pontiac,212,30225.466981132075
+Média-Alta (500k-1M),Male,Honda,210,27036.909523809525
+Média-Alta (500k-1M),Male,Acura,196,25450.98469387755
+Média-Alta (500k-1M),Male,Plymouth,174,29727.55172413793
+Média-Alta (500k-1M),Male,Cadillac,165,42106.29696969697
+Média-Alta (500k-1M),Male,Saturn,161,30951.093167701863
+Média-Alta (500k-1M),Female,Chevrolet,159,25197.767295597485
+Média-Alta (500k-1M),Male,Audi,143,22349.79020979021
+Média-Alta (500k-1M),Female,Dodge,141,27361.255319148935
+Média-Alta (500k-1M),Female,Ford,138,29016.22463768116
+Média-Alta (500k-1M),Female,Mercedes-B,131,23981.1679389313
+Média-Alta (500k-1M),Male,Subaru,129,27389.906976744187
+Média-Alta (500k-1M),Male,Lincoln,128,31903.3828125
+Média-Alta (500k-1M),Female,Volkswagen,125,27403.536
+Média-Alta (500k-1M),Male,Buick,115,34065.46086956522
+Média-Alta (500k-1M),Female,Mitsubishi,111,27063.315315315314
+Média-Alta (500k-1M),Male,Porsche,106,22820.915094339623
+Média-Alta (500k-1M),Female,Chrysler,99,24580.868686868685
+Média-Alta (500k-1M),Female,Toyota,97,28845.649484536083
+Média-Alta (500k-1M),Male,Jeep,94,21770.425531914894
+Média-Alta (500k-1M),Female,Oldsmobile,92,28628.434782608696
+Média-Alta (500k-1M),Female,Volvo,80,28287.2125
+Média-Alta (500k-1M),Female,Nissan,76,29033.842105263157
+Média-Alta (500k-1M),Female,Acura,74,24278.54054054054
+Média-Alta (500k-1M),Male,Hyundai,73,19596.095890410958
+Média-Alta (500k-1M),Female,Honda,71,27965.056338028167
+Média-Alta (500k-1M),Female,Lexus,69,33134.333333333336
+Média-Alta (500k-1M),Female,Pontiac,69,27183.63768115942
+Média-Alta (500k-1M),Female,Mercury,68,29555.676470588234
+Média-Alta (500k-1M),Female,BMW,66,25810.863636363636
+Média-Alta (500k-1M),Male,Infiniti,63,28660.539682539682
+Média-Alta (500k-1M),Male,Saab,62,35935.45161290323
+Média-Alta (500k-1M),Male,Jaguar,60,24877.433333333334
+Média-Alta (500k-1M),Female,Cadillac,56,40455.5
+Média-Alta (500k-1M),Female,Plymouth,55,33300.29090909091
+Média-Alta (500k-1M),Female,Lincoln,47,35202.31914893617
+Média-Alta (500k-1M),Female,Saturn,45,27122.533333333333
+Média-Alta (500k-1M),Female,Audi,36,25514.13888888889
+Média-Alta (500k-1M),Female,Buick,33,36416.969696969696
+Média-Alta (500k-1M),Female,Porsche,31,22855.1935483871
+Média-Alta (500k-1M),Female,Subaru,31,30593.16129032258
+Média-Alta (500k-1M),Female,Saab,28,36168.107142857145
+Média-Alta (500k-1M),Female,Jeep,22,20251.636363636364
+Média-Alta (500k-1M),Female,Hyundai,21,19928.904761904763
+Média-Alta (500k-1M),Female,Infiniti,15,34800.333333333336
+Média-Alta (500k-1M),Female,Jaguar,12,26125.5
+Média-Baixa (50k-100k),Male,Pontiac,1,43000.0
